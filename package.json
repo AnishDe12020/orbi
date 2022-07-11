@@ -1,6 +1,6 @@
 {
-  "name": "mabscodetheme",
-  "displayName": "mabscodetheme",
+  "name": "orbi",
+  "displayName": "Orbi",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "mabscodetheme",
+        "label": "orbi",
         "uiTheme": "vs-dark",
-        "path": "./themes/mabscodetheme-color-theme.json"
+        "path": "./themes/orbi-color-theme.json"
       }
     ]
   }
