@@ -1,16 +1,16 @@
-# README
+# Orbi
 
-## This is the README for your extension "orbi"
+A black and red [VSCode](https://code.visualstudio.com/) theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Orbi uses [Sequoia Moonlight](https://marketplace.visualstudio.com/items?itemName=wicked-labs.sequoia) as its base (MIT licensed). I have changed some colors (notably background colors, accent colors and the ANSI terminal colors) to suite my taste.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+Orbi uses ANSI terminal colors from [Ayu Dark](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu).
 
-### For more information
+I will be updating this themes in the due course of time to suite my taste.
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Screenshot - 
 
-**Enjoy!**
+![image](https://user-images.githubusercontent.com/63192115/178279715-9947097c-f9f2-43d2-8a65-bf11098f017f.png)
+
+## Contributing
+Please open an issue for any suggestion/to discuss any change. The colors chosen are those which meet my taste and I may or may not accept any changes to the current color palette (of course, if I like any suggestion, I would be happy to implement it :) )
