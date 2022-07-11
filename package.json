@@ -1,0 +1,21 @@
+{
+  "name": "mabscodetheme",
+  "displayName": "mabscodetheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mabscodetheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mabscodetheme-color-theme.json"
+      }
+    ]
+  }
+}
