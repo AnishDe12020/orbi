@@ -575,12 +575,6 @@
       }
     },
     {
-      "scope": ["punctuation.definition.string"],
-      "settings": {
-        "foreground": "#9898a6"
-      }
-    },
-    {
       "scope": ["punctuation.definition.tag"],
       "settings": {
         "foreground": "#43444D"
@@ -593,9 +587,9 @@
       }
     },
     {
-      "scope": ["string"],
+      "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#9898a6"
+        "foreground": "#83e765"
       }
     },
     {
@@ -632,7 +626,7 @@
         "variable.argument"
       ],
       "settings": {
-        "foreground": "#868690"
+        "foreground": "#f0faf3"
       }
     },
     {
